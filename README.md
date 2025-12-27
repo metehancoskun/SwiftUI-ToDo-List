@@ -24,7 +24,7 @@ Yapılacaklar listesi uygulaması.
 ```
 
 
-
+![Uygulama Tanıtımı](images/ToDoList.gif)
 
 
 ## Örnek Kullanım
